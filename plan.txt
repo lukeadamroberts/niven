@@ -1,0 +1,20 @@
+Things to do:
+
+-Make tabs work for loaded content
+-Make functions to change: font colour, background colour, font size, font?, toolbar appearance?
+-Make the style function work: Maybe make a style object and stash it in local storage, loading with a default if it is not there.
+ a bit like this:settings = {background: "black", fontColour:"white", fontSize:"9pt"}
+-Find better font
+-Find better way to save files, maybe look into JQUERY UI dialouge forms.
+-toggle spell check? no idea where to start
+-figure out how to have comments and other statements stylized to show keywords (while, for etc)
+-Ask for confirmation when exiting, prevents work being lost
+-Test for scaling
+-make git hub for project
+-make logo
+-FIND A NAME!!
+-print functionality
+-make a function that generates a toolbar based on an object, this will make it easier to expand in the future
+-Make documentation that explains how to add stuff to it, such as how to add to the toolbar generation function and how to add to the style defaults and such.
+-Show to friends and ask them to get on board, ask them to test.
+-Ask katie for style tips.
