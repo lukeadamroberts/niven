@@ -22,7 +22,7 @@ $('#textBody').keydown(function(event){checkKey(event);});
 * smaller than the page.
 **/
 function fitToPage(){
-	$('#textContainer').height($(window).height() - ($('#toolBar').height()*2) - 24);
+	$('#textContainer').height($(window).height() - ($('#toolBar').height()*2) - 20);
 }
 
 /**
