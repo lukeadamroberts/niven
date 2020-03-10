@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="Niven">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>
